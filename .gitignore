@@ -1,0 +1,20 @@
+.gradle/
+.idea/
+local.properties
+**/build/
+*.iml
+
+# Configuración y archivos locales
+local.properties
+.gradle/
+.idea/
+**/build/
+*.iml
+
+# Claves de firma y secretos
+*.jks
+*.keystore
+*.p12
+keystore.properties
+.env
+.env.*
